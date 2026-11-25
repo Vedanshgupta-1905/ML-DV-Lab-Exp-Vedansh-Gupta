@@ -1,0 +1,731 @@
+Date,Region,City,State,Country,Category,Subcategory,Quantity,UnitPrice,Sales,Profit
+2023-01-01,North,Delhi,Delhi,India,Technology,Phones,1,150,150,12.00
+2023-01-02,West,Mumbai,Maharashtra,India,Technology,Accessories,5,287,1435,150.68
+2023-01-03,South,Bengaluru,Karnataka,India,Furniture,Chairs,9,424,3816,496.08
+2023-01-04,East,Kolkata,West Bengal,India,Furniture,Tables,4,561,2244,347.82
+2023-01-05,North,Delhi,Delhi,India,Office Supplies,Binders,8,698,5584,1005.12
+2023-01-06,West,Mumbai,Maharashtra,India,Technology,Phones,3,835,2505,513.53
+2023-01-07,South,Bengaluru,Karnataka,India,Technology,Accessories,7,972,6804,1564.92
+2023-01-08,East,Kolkata,West Bengal,India,Furniture,Chairs,2,1109,2218,177.44
+2023-01-09,North,Delhi,Delhi,India,Office Supplies,Paper,6,1246,7476,784.98
+2023-01-10,West,Mumbai,Maharashtra,India,Office Supplies,Binders,1,1383,1383,179.79
+2023-01-11,South,Bengaluru,Karnataka,India,Technology,Phones,5,1520,7600,1178.00
+2023-01-12,East,Kolkata,West Bengal,India,Technology,Accessories,9,1657,14913,2684.34
+2023-01-13,North,Delhi,Delhi,India,Furniture,Tables,4,1794,7176,1471.08
+2023-01-14,West,Mumbai,Maharashtra,India,Office Supplies,Paper,8,1931,15448,3553.04
+2023-01-15,South,Bengaluru,Karnataka,India,Office Supplies,Binders,3,2068,6204,496.32
+2023-01-16,East,Kolkata,West Bengal,India,Technology,Phones,7,2205,15435,1620.68
+2023-01-17,North,Delhi,Delhi,India,Furniture,Chairs,2,2342,4684,608.92
+2023-01-18,West,Mumbai,Maharashtra,India,Furniture,Tables,6,279,1674,259.47
+2023-01-19,South,Bengaluru,Karnataka,India,Office Supplies,Paper,1,416,416,74.88
+2023-01-20,East,Kolkata,West Bengal,India,Office Supplies,Binders,5,553,2765,566.83
+2023-01-21,North,Delhi,Delhi,India,Technology,Accessories,9,690,6210,1428.30
+2023-01-22,West,Mumbai,Maharashtra,India,Furniture,Chairs,4,827,3308,264.64
+2023-01-23,South,Bengaluru,Karnataka,India,Furniture,Tables,8,964,7712,809.76
+2023-01-24,East,Kolkata,West Bengal,India,Office Supplies,Paper,3,1101,3303,429.39
+2023-01-25,North,Delhi,Delhi,India,Technology,Phones,7,1238,8666,1343.23
+2023-01-26,West,Mumbai,Maharashtra,India,Technology,Accessories,2,1375,2750,495.00
+2023-01-27,South,Bengaluru,Karnataka,India,Furniture,Chairs,6,1512,9072,1859.76
+2023-01-28,East,Kolkata,West Bengal,India,Furniture,Tables,1,1649,1649,379.27
+2023-01-29,North,Delhi,Delhi,India,Office Supplies,Binders,5,1786,8930,714.40
+2023-01-30,West,Mumbai,Maharashtra,India,Technology,Phones,9,1923,17307,1817.24
+2023-01-31,South,Bengaluru,Karnataka,India,Technology,Accessories,4,2060,8240,1071.20
+2023-02-01,East,Kolkata,West Bengal,India,Furniture,Chairs,8,2197,17576,2724.28
+2023-02-02,North,Delhi,Delhi,India,Office Supplies,Paper,3,2334,7002,1260.36
+2023-02-03,West,Mumbai,Maharashtra,India,Office Supplies,Binders,7,271,1897,388.89
+2023-02-04,South,Bengaluru,Karnataka,India,Technology,Phones,2,408,816,187.68
+2023-02-05,East,Kolkata,West Bengal,India,Technology,Accessories,6,545,3270,261.60
+2023-02-06,North,Delhi,Delhi,India,Furniture,Tables,1,682,682,71.61
+2023-02-07,West,Mumbai,Maharashtra,India,Office Supplies,Paper,5,819,4095,532.35
+2023-02-08,South,Bengaluru,Karnataka,India,Office Supplies,Binders,9,956,8604,1333.62
+2023-02-09,East,Kolkata,West Bengal,India,Technology,Phones,4,1093,4372,786.96
+2023-02-10,North,Delhi,Delhi,India,Furniture,Chairs,8,1230,9840,2017.20
+2023-02-11,West,Mumbai,Maharashtra,India,Furniture,Tables,3,1367,4101,943.23
+2023-02-12,South,Bengaluru,Karnataka,India,Office Supplies,Paper,7,1504,10528,842.24
+2023-02-13,East,Kolkata,West Bengal,India,Office Supplies,Binders,2,1641,3282,344.61
+2023-02-14,North,Delhi,Delhi,India,Technology,Accessories,6,1778,10668,1386.84
+2023-02-15,West,Mumbai,Maharashtra,India,Furniture,Chairs,1,1915,1915,296.83
+2023-02-16,South,Bengaluru,Karnataka,India,Furniture,Tables,5,2052,10260,1846.80
+2023-02-17,East,Kolkata,West Bengal,India,Office Supplies,Paper,9,2189,19701,4038.71
+2023-02-18,North,Delhi,Delhi,India,Technology,Phones,4,2326,9304,2139.92
+2023-02-19,West,Mumbai,Maharashtra,India,Technology,Accessories,8,263,2104,168.32
+2023-02-20,South,Bengaluru,Karnataka,India,Furniture,Chairs,3,400,1200,126.00
+2023-02-21,East,Kolkata,West Bengal,India,Furniture,Tables,7,537,3759,488.67
+2023-02-22,North,Delhi,Delhi,India,Office Supplies,Binders,2,674,1348,208.94
+2023-02-23,West,Mumbai,Maharashtra,India,Technology,Phones,6,811,4866,875.88
+2023-02-24,South,Bengaluru,Karnataka,India,Technology,Accessories,1,948,948,194.34
+2023-02-25,East,Kolkata,West Bengal,India,Furniture,Chairs,5,1085,5425,1247.75
+2023-02-26,North,Delhi,Delhi,India,Office Supplies,Paper,9,1222,10998,879.84
+2023-02-27,West,Mumbai,Maharashtra,India,Office Supplies,Binders,4,1359,5436,570.78
+2023-02-28,South,Bengaluru,Karnataka,India,Technology,Phones,8,1496,11968,1555.84
+2023-03-01,East,Kolkata,West Bengal,India,Technology,Accessories,3,1633,4899,759.35
+2023-03-02,North,Delhi,Delhi,India,Furniture,Tables,7,1770,12390,2230.20
+2023-03-03,West,Mumbai,Maharashtra,India,Office Supplies,Paper,2,1907,3814,781.87
+2023-03-04,South,Bengaluru,Karnataka,India,Office Supplies,Binders,6,2044,12264,2820.72
+2023-03-05,East,Kolkata,West Bengal,India,Technology,Phones,1,2181,2181,174.48
+2023-03-06,North,Delhi,Delhi,India,Furniture,Chairs,5,2318,11590,1216.95
+2023-03-07,West,Mumbai,Maharashtra,India,Furniture,Tables,9,255,2295,298.35
+2023-03-08,South,Bengaluru,Karnataka,India,Office Supplies,Paper,4,392,1568,243.04
+2023-03-09,East,Kolkata,West Bengal,India,Office Supplies,Binders,8,529,4232,761.76
+2023-03-10,North,Delhi,Delhi,India,Technology,Accessories,3,666,1998,409.59
+2023-03-11,West,Mumbai,Maharashtra,India,Furniture,Chairs,7,803,5621,1292.83
+2023-03-12,South,Bengaluru,Karnataka,India,Furniture,Tables,2,940,1880,150.40
+2023-03-13,East,Kolkata,West Bengal,India,Office Supplies,Paper,6,1077,6462,678.51
+2023-03-14,North,Delhi,Delhi,India,Technology,Phones,1,1214,1214,157.82
+2023-03-15,West,Mumbai,Maharashtra,India,Technology,Accessories,5,1351,6755,1047.03
+2023-03-16,South,Bengaluru,Karnataka,India,Furniture,Chairs,9,1488,13392,2410.56
+2023-03-17,East,Kolkata,West Bengal,India,Furniture,Tables,4,1625,6500,1332.50
+2023-03-18,North,Delhi,Delhi,India,Office Supplies,Binders,8,1762,14096,3242.08
+2023-03-19,West,Mumbai,Maharashtra,India,Technology,Phones,3,1899,5697,455.76
+2023-03-20,South,Bengaluru,Karnataka,India,Technology,Accessories,7,2036,14252,1496.46
+2023-03-21,East,Kolkata,West Bengal,India,Furniture,Chairs,2,2173,4346,564.98
+2023-03-22,North,Delhi,Delhi,India,Office Supplies,Paper,6,2310,13860,2148.30
+2023-03-23,West,Mumbai,Maharashtra,India,Office Supplies,Binders,1,247,247,44.46
+2023-03-24,South,Bengaluru,Karnataka,India,Technology,Phones,5,384,1920,393.60
+2023-03-25,East,Kolkata,West Bengal,India,Technology,Accessories,9,521,4689,1078.47
+2023-03-26,North,Delhi,Delhi,India,Furniture,Tables,4,658,2632,210.56
+2023-03-27,West,Mumbai,Maharashtra,India,Office Supplies,Paper,8,795,6360,667.80
+2023-03-28,South,Bengaluru,Karnataka,India,Office Supplies,Binders,3,932,2796,363.48
+2023-03-29,East,Kolkata,West Bengal,India,Technology,Phones,7,1069,7483,1159.87
+2023-03-30,North,Delhi,Delhi,India,Furniture,Chairs,2,1206,2412,434.16
+2023-03-31,West,Mumbai,Maharashtra,India,Furniture,Tables,6,1343,8058,1651.89
+2023-04-01,South,Bengaluru,Karnataka,India,Office Supplies,Paper,1,1480,1480,340.40
+2023-04-02,East,Kolkata,West Bengal,India,Office Supplies,Binders,5,1617,8085,646.80
+2023-04-03,North,Delhi,Delhi,India,Technology,Accessories,9,1754,15786,1657.53
+2023-04-04,West,Mumbai,Maharashtra,India,Furniture,Chairs,4,1891,7564,983.32
+2023-04-05,South,Bengaluru,Karnataka,India,Furniture,Tables,8,2028,16224,2514.72
+2023-04-06,East,Kolkata,West Bengal,India,Office Supplies,Paper,3,2165,6495,1169.10
+2023-04-07,North,Delhi,Delhi,India,Technology,Phones,7,2302,16114,3303.37
+2023-04-08,West,Mumbai,Maharashtra,India,Technology,Accessories,2,239,478,109.94
+2023-04-09,South,Bengaluru,Karnataka,India,Furniture,Chairs,6,376,2256,180.48
+2023-04-10,East,Kolkata,West Bengal,India,Furniture,Tables,1,513,513,53.87
+2023-04-11,North,Delhi,Delhi,India,Office Supplies,Binders,5,650,3250,422.50
+2023-04-12,West,Mumbai,Maharashtra,India,Technology,Phones,9,787,7083,1097.87
+2023-04-13,South,Bengaluru,Karnataka,India,Technology,Accessories,4,924,3696,665.28
+2023-04-14,East,Kolkata,West Bengal,India,Furniture,Chairs,8,1061,8488,1740.04
+2023-04-15,North,Delhi,Delhi,India,Office Supplies,Paper,3,1198,3594,826.62
+2023-04-16,West,Mumbai,Maharashtra,India,Office Supplies,Binders,7,1335,9345,747.60
+2023-04-17,South,Bengaluru,Karnataka,India,Technology,Phones,2,1472,2944,309.12
+2023-04-18,East,Kolkata,West Bengal,India,Technology,Accessories,6,1609,9654,1255.02
+2023-04-19,North,Delhi,Delhi,India,Furniture,Tables,1,1746,1746,270.63
+2023-04-20,West,Mumbai,Maharashtra,India,Office Supplies,Paper,5,1883,9415,1694.70
+2023-04-21,South,Bengaluru,Karnataka,India,Office Supplies,Binders,9,2020,18180,3726.90
+2023-04-22,East,Kolkata,West Bengal,India,Technology,Phones,4,2157,8628,1984.44
+2023-04-23,North,Delhi,Delhi,India,Furniture,Chairs,8,2294,18352,1468.16
+2023-04-24,West,Mumbai,Maharashtra,India,Furniture,Tables,3,231,693,72.77
+2023-04-25,South,Bengaluru,Karnataka,India,Office Supplies,Paper,7,368,2576,334.88
+2023-04-26,East,Kolkata,West Bengal,India,Office Supplies,Binders,2,505,1010,156.55
+2023-04-27,North,Delhi,Delhi,India,Technology,Accessories,6,642,3852,693.36
+2023-04-28,West,Mumbai,Maharashtra,India,Furniture,Chairs,1,779,779,159.70
+2023-04-29,South,Bengaluru,Karnataka,India,Furniture,Tables,5,916,4580,1053.40
+2023-04-30,East,Kolkata,West Bengal,India,Office Supplies,Paper,9,1053,9477,758.16
+2023-05-01,North,Delhi,Delhi,India,Technology,Phones,4,1190,4760,499.80
+2023-05-02,West,Mumbai,Maharashtra,India,Technology,Accessories,8,1327,10616,1380.08
+2023-05-03,South,Bengaluru,Karnataka,India,Furniture,Chairs,3,1464,4392,680.76
+2023-05-04,East,Kolkata,West Bengal,India,Furniture,Tables,7,1601,11207,2017.26
+2023-05-05,North,Delhi,Delhi,India,Office Supplies,Binders,2,1738,3476,712.58
+2023-05-06,West,Mumbai,Maharashtra,India,Technology,Phones,6,1875,11250,2587.50
+2023-05-07,South,Bengaluru,Karnataka,India,Technology,Accessories,1,2012,2012,160.96
+2023-05-08,East,Kolkata,West Bengal,India,Furniture,Chairs,5,2149,10745,1128.23
+2023-05-09,North,Delhi,Delhi,India,Office Supplies,Paper,9,2286,20574,2674.62
+2023-05-10,West,Mumbai,Maharashtra,India,Office Supplies,Binders,4,223,892,138.26
+2023-05-11,South,Bengaluru,Karnataka,India,Technology,Phones,8,360,2880,518.40
+2023-05-12,East,Kolkata,West Bengal,India,Technology,Accessories,3,497,1491,305.66
+2023-05-13,North,Delhi,Delhi,India,Furniture,Tables,7,634,4438,1020.74
+2023-05-14,West,Mumbai,Maharashtra,India,Office Supplies,Paper,2,771,1542,123.36
+2023-05-15,South,Bengaluru,Karnataka,India,Office Supplies,Binders,6,908,5448,572.04
+2023-05-16,East,Kolkata,West Bengal,India,Technology,Phones,1,1045,1045,135.85
+2023-05-17,North,Delhi,Delhi,India,Furniture,Chairs,5,1182,5910,916.05
+2023-05-18,West,Mumbai,Maharashtra,India,Furniture,Tables,9,1319,11871,2136.78
+2023-05-19,South,Bengaluru,Karnataka,India,Office Supplies,Paper,4,1456,5824,1193.92
+2023-05-20,East,Kolkata,West Bengal,India,Office Supplies,Binders,8,1593,12744,2931.12
+2023-05-21,North,Delhi,Delhi,India,Technology,Accessories,3,1730,5190,415.20
+2023-05-22,West,Mumbai,Maharashtra,India,Furniture,Chairs,7,1867,13069,1372.25
+2023-05-23,South,Bengaluru,Karnataka,India,Furniture,Tables,2,2004,4008,521.04
+2023-05-24,East,Kolkata,West Bengal,India,Office Supplies,Paper,6,2141,12846,1991.13
+2023-05-25,North,Delhi,Delhi,India,Technology,Phones,1,2278,2278,410.04
+2023-05-26,West,Mumbai,Maharashtra,India,Technology,Accessories,5,215,1075,220.38
+2023-05-27,South,Bengaluru,Karnataka,India,Furniture,Chairs,9,352,3168,728.64
+2023-05-28,East,Kolkata,West Bengal,India,Furniture,Tables,4,489,1956,156.48
+2023-05-29,North,Delhi,Delhi,India,Office Supplies,Binders,8,626,5008,525.84
+2023-05-30,West,Mumbai,Maharashtra,India,Technology,Phones,3,763,2289,297.57
+2023-05-31,South,Bengaluru,Karnataka,India,Technology,Accessories,7,900,6300,976.50
+2023-06-01,East,Kolkata,West Bengal,India,Furniture,Chairs,2,1037,2074,373.32
+2023-06-02,North,Delhi,Delhi,India,Office Supplies,Paper,6,1174,7044,1444.02
+2023-06-03,West,Mumbai,Maharashtra,India,Office Supplies,Binders,1,1311,1311,301.53
+2023-06-04,South,Bengaluru,Karnataka,India,Technology,Phones,5,1448,7240,579.20
+2023-06-05,East,Kolkata,West Bengal,India,Technology,Accessories,9,1585,14265,1497.83
+2023-06-06,North,Delhi,Delhi,India,Furniture,Tables,4,1722,6888,895.44
+2023-06-07,West,Mumbai,Maharashtra,India,Office Supplies,Paper,8,1859,14872,2305.16
+2023-06-08,South,Bengaluru,Karnataka,India,Office Supplies,Binders,3,1996,5988,1077.84
+2023-06-09,East,Kolkata,West Bengal,India,Technology,Phones,7,2133,14931,3060.86
+2023-06-10,North,Delhi,Delhi,India,Furniture,Chairs,2,2270,4540,1044.20
+2023-06-11,West,Mumbai,Maharashtra,India,Furniture,Tables,6,207,1242,99.36
+2023-06-12,South,Bengaluru,Karnataka,India,Office Supplies,Paper,1,344,344,36.12
+2023-06-13,East,Kolkata,West Bengal,India,Office Supplies,Binders,5,481,2405,312.65
+2023-06-14,North,Delhi,Delhi,India,Technology,Accessories,9,618,5562,862.11
+2023-06-15,West,Mumbai,Maharashtra,India,Furniture,Chairs,4,755,3020,543.60
+2023-06-16,South,Bengaluru,Karnataka,India,Furniture,Tables,8,892,7136,1462.88
+2023-06-17,East,Kolkata,West Bengal,India,Office Supplies,Paper,3,1029,3087,710.01
+2023-06-18,North,Delhi,Delhi,India,Technology,Phones,7,1166,8162,652.96
+2023-06-19,West,Mumbai,Maharashtra,India,Technology,Accessories,2,1303,2606,273.63
+2023-06-20,South,Bengaluru,Karnataka,India,Furniture,Chairs,6,1440,8640,1123.20
+2023-06-21,East,Kolkata,West Bengal,India,Furniture,Tables,1,1577,1577,244.44
+2023-06-22,North,Delhi,Delhi,India,Office Supplies,Binders,5,1714,8570,1542.60
+2023-06-23,West,Mumbai,Maharashtra,India,Technology,Phones,9,1851,16659,3415.10
+2023-06-24,South,Bengaluru,Karnataka,India,Technology,Accessories,4,1988,7952,1828.96
+2023-06-25,East,Kolkata,West Bengal,India,Furniture,Chairs,8,2125,17000,1360.00
+2023-06-26,North,Delhi,Delhi,India,Office Supplies,Paper,3,2262,6786,712.53
+2023-06-27,West,Mumbai,Maharashtra,India,Office Supplies,Binders,7,199,1393,181.09
+2023-06-28,South,Bengaluru,Karnataka,India,Technology,Phones,2,336,672,104.16
+2023-06-29,East,Kolkata,West Bengal,India,Technology,Accessories,6,473,2838,510.84
+2023-06-30,North,Delhi,Delhi,India,Furniture,Tables,1,610,610,125.05
+2023-07-01,West,Mumbai,Maharashtra,India,Office Supplies,Paper,5,747,3735,859.05
+2023-07-02,South,Bengaluru,Karnataka,India,Office Supplies,Binders,9,884,7956,636.48
+2023-07-03,East,Kolkata,West Bengal,India,Technology,Phones,4,1021,4084,428.82
+2023-07-04,North,Delhi,Delhi,India,Furniture,Chairs,8,1158,9264,1204.32
+2023-07-05,West,Mumbai,Maharashtra,India,Furniture,Tables,3,1295,3885,602.18
+2023-07-06,South,Bengaluru,Karnataka,India,Office Supplies,Paper,7,1432,10024,1804.32
+2023-07-07,East,Kolkata,West Bengal,India,Office Supplies,Binders,2,1569,3138,643.29
+2023-07-08,North,Delhi,Delhi,India,Technology,Accessories,6,1706,10236,2354.28
+2023-07-09,West,Mumbai,Maharashtra,India,Furniture,Chairs,1,1843,1843,147.44
+2023-07-10,South,Bengaluru,Karnataka,India,Furniture,Tables,5,1980,9900,1039.50
+2023-07-11,East,Kolkata,West Bengal,India,Office Supplies,Paper,9,2117,19053,2476.89
+2023-07-12,North,Delhi,Delhi,India,Technology,Phones,4,2254,9016,1397.48
+2023-07-13,West,Mumbai,Maharashtra,India,Technology,Accessories,8,191,1528,275.04
+2023-07-14,South,Bengaluru,Karnataka,India,Furniture,Chairs,3,328,984,201.72
+2023-07-15,East,Kolkata,West Bengal,India,Furniture,Tables,7,465,3255,748.65
+2023-07-16,North,Delhi,Delhi,India,Office Supplies,Binders,2,602,1204,96.32
+2023-07-17,West,Mumbai,Maharashtra,India,Technology,Phones,6,739,4434,465.57
+2023-07-18,South,Bengaluru,Karnataka,India,Technology,Accessories,1,876,876,113.88
+2023-07-19,East,Kolkata,West Bengal,India,Furniture,Chairs,5,1013,5065,785.08
+2023-07-20,North,Delhi,Delhi,India,Office Supplies,Paper,9,1150,10350,1863.00
+2023-07-21,West,Mumbai,Maharashtra,India,Office Supplies,Binders,4,1287,5148,1055.34
+2023-07-22,South,Bengaluru,Karnataka,India,Technology,Phones,8,1424,11392,2620.16
+2023-07-23,East,Kolkata,West Bengal,India,Technology,Accessories,3,1561,4683,374.64
+2023-07-24,North,Delhi,Delhi,India,Furniture,Tables,7,1698,11886,1248.03
+2023-07-25,West,Mumbai,Maharashtra,India,Office Supplies,Paper,2,1835,3670,477.10
+2023-07-26,South,Bengaluru,Karnataka,India,Office Supplies,Binders,6,1972,11832,1833.96
+2023-07-27,East,Kolkata,West Bengal,India,Technology,Phones,1,2109,2109,379.62
+2023-07-28,North,Delhi,Delhi,India,Furniture,Chairs,5,2246,11230,2302.15
+2023-07-29,West,Mumbai,Maharashtra,India,Furniture,Tables,9,183,1647,378.81
+2023-07-30,South,Bengaluru,Karnataka,India,Office Supplies,Paper,4,320,1280,102.40
+2023-07-31,East,Kolkata,West Bengal,India,Office Supplies,Binders,8,457,3656,383.88
+2023-08-01,North,Delhi,Delhi,India,Technology,Accessories,3,594,1782,231.66
+2023-08-02,West,Mumbai,Maharashtra,India,Furniture,Chairs,7,731,5117,793.14
+2023-08-03,South,Bengaluru,Karnataka,India,Furniture,Tables,2,868,1736,312.48
+2023-08-04,East,Kolkata,West Bengal,India,Office Supplies,Paper,6,1005,6030,1236.15
+2023-08-05,North,Delhi,Delhi,India,Technology,Phones,1,1142,1142,262.66
+2023-08-06,West,Mumbai,Maharashtra,India,Technology,Accessories,5,1279,6395,511.60
+2023-08-07,South,Bengaluru,Karnataka,India,Furniture,Chairs,9,1416,12744,1338.12
+2023-08-08,East,Kolkata,West Bengal,India,Furniture,Tables,4,1553,6212,807.56
+2023-08-09,North,Delhi,Delhi,India,Office Supplies,Binders,8,1690,13520,2095.60
+2023-08-10,West,Mumbai,Maharashtra,India,Technology,Phones,3,1827,5481,986.58
+2023-08-11,South,Bengaluru,Karnataka,India,Technology,Accessories,7,1964,13748,2818.34
+2023-08-12,East,Kolkata,West Bengal,India,Furniture,Chairs,2,2101,4202,966.46
+2023-08-13,North,Delhi,Delhi,India,Office Supplies,Paper,6,2238,13428,1074.24
+2023-08-14,West,Mumbai,Maharashtra,India,Office Supplies,Binders,1,175,175,18.38
+2023-08-15,South,Bengaluru,Karnataka,India,Technology,Phones,5,312,1560,202.80
+2023-08-16,East,Kolkata,West Bengal,India,Technology,Accessories,9,449,4041,626.36
+2023-08-17,North,Delhi,Delhi,India,Furniture,Tables,4,586,2344,421.92
+2023-08-18,West,Mumbai,Maharashtra,India,Office Supplies,Paper,8,723,5784,1185.72
+2023-08-19,South,Bengaluru,Karnataka,India,Office Supplies,Binders,3,860,2580,593.40
+2023-08-20,East,Kolkata,West Bengal,India,Technology,Phones,7,997,6979,558.32
+2023-08-21,North,Delhi,Delhi,India,Furniture,Chairs,2,1134,2268,238.14
+2023-08-22,West,Mumbai,Maharashtra,India,Furniture,Tables,6,1271,7626,991.38
+2023-08-23,South,Bengaluru,Karnataka,India,Office Supplies,Paper,1,1408,1408,218.24
+2023-08-24,East,Kolkata,West Bengal,India,Office Supplies,Binders,5,1545,7725,1390.50
+2023-08-25,North,Delhi,Delhi,India,Technology,Accessories,9,1682,15138,3103.29
+2023-08-26,West,Mumbai,Maharashtra,India,Furniture,Chairs,4,1819,7276,1673.48
+2023-08-27,South,Bengaluru,Karnataka,India,Furniture,Tables,8,1956,15648,1251.84
+2023-08-28,East,Kolkata,West Bengal,India,Office Supplies,Paper,3,2093,6279,659.30
+2023-08-29,North,Delhi,Delhi,India,Technology,Phones,7,2230,15610,2029.30
+2023-08-30,West,Mumbai,Maharashtra,India,Technology,Accessories,2,167,334,51.77
+2023-08-31,South,Bengaluru,Karnataka,India,Furniture,Chairs,6,304,1824,328.32
+2023-09-01,East,Kolkata,West Bengal,India,Furniture,Tables,1,441,441,90.41
+2023-09-02,North,Delhi,Delhi,India,Office Supplies,Binders,5,578,2890,664.70
+2023-09-03,West,Mumbai,Maharashtra,India,Technology,Phones,9,715,6435,514.80
+2023-09-04,South,Bengaluru,Karnataka,India,Technology,Accessories,4,852,3408,357.84
+2023-09-05,East,Kolkata,West Bengal,India,Furniture,Chairs,8,989,7912,1028.56
+2023-09-06,North,Delhi,Delhi,India,Office Supplies,Paper,3,1126,3378,523.59
+2023-09-07,West,Mumbai,Maharashtra,India,Office Supplies,Binders,7,1263,8841,1591.38
+2023-09-08,South,Bengaluru,Karnataka,India,Technology,Phones,2,1400,2800,574.00
+2023-09-09,East,Kolkata,West Bengal,India,Technology,Accessories,6,1537,9222,2121.06
+2023-09-10,North,Delhi,Delhi,India,Furniture,Tables,1,1674,1674,133.92
+2023-09-11,West,Mumbai,Maharashtra,India,Office Supplies,Paper,5,1811,9055,950.78
+2023-09-12,South,Bengaluru,Karnataka,India,Office Supplies,Binders,9,1948,17532,2279.16
+2023-09-13,East,Kolkata,West Bengal,India,Technology,Phones,4,2085,8340,1292.70
+2023-09-14,North,Delhi,Delhi,India,Furniture,Chairs,8,2222,17776,3199.68
+2023-09-15,West,Mumbai,Maharashtra,India,Furniture,Tables,3,159,477,97.79
+2023-09-16,South,Bengaluru,Karnataka,India,Office Supplies,Paper,7,296,2072,476.56
+2023-09-17,East,Kolkata,West Bengal,India,Office Supplies,Binders,2,433,866,69.28
+2023-09-18,North,Delhi,Delhi,India,Technology,Accessories,6,570,3420,359.10
+2023-09-19,West,Mumbai,Maharashtra,India,Furniture,Chairs,1,707,707,91.91
+2023-09-20,South,Bengaluru,Karnataka,India,Furniture,Tables,5,844,4220,654.10
+2023-09-21,East,Kolkata,West Bengal,India,Office Supplies,Paper,9,981,8829,1589.22
+2023-09-22,North,Delhi,Delhi,India,Technology,Phones,4,1118,4472,916.76
+2023-09-23,West,Mumbai,Maharashtra,India,Technology,Accessories,8,1255,10040,2309.20
+2023-09-24,South,Bengaluru,Karnataka,India,Furniture,Chairs,3,1392,4176,334.08
+2023-09-25,East,Kolkata,West Bengal,India,Furniture,Tables,7,1529,10703,1123.82
+2023-09-26,North,Delhi,Delhi,India,Office Supplies,Binders,2,1666,3332,433.16
+2023-09-27,West,Mumbai,Maharashtra,India,Technology,Phones,6,1803,10818,1676.79
+2023-09-28,South,Bengaluru,Karnataka,India,Technology,Accessories,1,1940,1940,349.20
+2023-09-29,East,Kolkata,West Bengal,India,Furniture,Chairs,5,2077,10385,2128.93
+2023-09-30,North,Delhi,Delhi,India,Office Supplies,Paper,9,2214,19926,4582.98
+2023-10-01,West,Mumbai,Maharashtra,India,Office Supplies,Binders,4,151,604,48.32
+2023-10-02,South,Bengaluru,Karnataka,India,Technology,Phones,8,288,2304,241.92
+2023-10-03,East,Kolkata,West Bengal,India,Technology,Accessories,3,425,1275,165.75
+2023-10-04,North,Delhi,Delhi,India,Furniture,Tables,7,562,3934,609.77
+2023-10-05,West,Mumbai,Maharashtra,India,Office Supplies,Paper,2,699,1398,251.64
+2023-10-06,South,Bengaluru,Karnataka,India,Office Supplies,Binders,6,836,5016,1028.28
+2023-10-07,East,Kolkata,West Bengal,India,Technology,Phones,1,973,973,223.79
+2023-10-08,North,Delhi,Delhi,India,Furniture,Chairs,5,1110,5550,444.00
+2023-10-09,West,Mumbai,Maharashtra,India,Furniture,Tables,9,1247,11223,1178.42
+2023-10-10,South,Bengaluru,Karnataka,India,Office Supplies,Paper,4,1384,5536,719.68
+2023-10-11,East,Kolkata,West Bengal,India,Office Supplies,Binders,8,1521,12168,1886.04
+2023-10-12,North,Delhi,Delhi,India,Technology,Accessories,3,1658,4974,895.32
+2023-10-13,West,Mumbai,Maharashtra,India,Furniture,Chairs,7,1795,12565,2575.83
+2023-10-14,South,Bengaluru,Karnataka,India,Furniture,Tables,2,1932,3864,888.72
+2023-10-15,East,Kolkata,West Bengal,India,Office Supplies,Paper,6,2069,12414,993.12
+2023-10-16,North,Delhi,Delhi,India,Technology,Phones,1,2206,2206,231.63
+2023-10-17,West,Mumbai,Maharashtra,India,Technology,Accessories,5,2343,11715,1522.95
+2023-10-18,South,Bengaluru,Karnataka,India,Furniture,Chairs,9,280,2520,390.60
+2023-10-19,East,Kolkata,West Bengal,India,Furniture,Tables,4,417,1668,300.24
+2023-10-20,North,Delhi,Delhi,India,Office Supplies,Binders,8,554,4432,908.56
+2023-10-21,West,Mumbai,Maharashtra,India,Technology,Phones,3,691,2073,476.79
+2023-10-22,South,Bengaluru,Karnataka,India,Technology,Accessories,7,828,5796,463.68
+2023-10-23,East,Kolkata,West Bengal,India,Furniture,Chairs,2,965,1930,202.65
+2023-10-24,North,Delhi,Delhi,India,Office Supplies,Paper,6,1102,6612,859.56
+2023-10-25,West,Mumbai,Maharashtra,India,Office Supplies,Binders,1,1239,1239,192.05
+2023-10-26,South,Bengaluru,Karnataka,India,Technology,Phones,5,1376,6880,1238.40
+2023-10-27,East,Kolkata,West Bengal,India,Technology,Accessories,9,1513,13617,2791.49
+2023-10-28,North,Delhi,Delhi,India,Furniture,Tables,4,1650,6600,1518.00
+2023-10-29,West,Mumbai,Maharashtra,India,Office Supplies,Paper,8,1787,14296,1143.68
+2023-10-30,South,Bengaluru,Karnataka,India,Office Supplies,Binders,3,1924,5772,606.06
+2023-10-31,East,Kolkata,West Bengal,India,Technology,Phones,7,2061,14427,1875.51
+2023-11-01,North,Delhi,Delhi,India,Furniture,Chairs,2,2198,4396,681.38
+2023-11-02,West,Mumbai,Maharashtra,India,Furniture,Tables,6,2335,14010,2521.80
+2023-11-03,South,Bengaluru,Karnataka,India,Office Supplies,Paper,1,272,272,55.76
+2023-11-04,East,Kolkata,West Bengal,India,Office Supplies,Binders,5,409,2045,470.35
+2023-11-05,North,Delhi,Delhi,India,Technology,Accessories,9,546,4914,393.12
+2023-11-06,West,Mumbai,Maharashtra,India,Furniture,Chairs,4,683,2732,286.86
+2023-11-07,South,Bengaluru,Karnataka,India,Furniture,Tables,8,820,6560,852.80
+2023-11-08,East,Kolkata,West Bengal,India,Office Supplies,Paper,3,957,2871,445.01
+2023-11-09,North,Delhi,Delhi,India,Technology,Phones,7,1094,7658,1378.44
+2023-11-10,West,Mumbai,Maharashtra,India,Technology,Accessories,2,1231,2462,504.71
+2023-11-11,South,Bengaluru,Karnataka,India,Furniture,Chairs,6,1368,8208,1887.84
+2023-11-12,East,Kolkata,West Bengal,India,Furniture,Tables,1,1505,1505,120.40
+2023-11-13,North,Delhi,Delhi,India,Office Supplies,Binders,5,1642,8210,862.05
+2023-11-14,West,Mumbai,Maharashtra,India,Technology,Phones,9,1779,16011,2081.43
+2023-11-15,South,Bengaluru,Karnataka,India,Technology,Accessories,4,1916,7664,1187.92
+2023-11-16,East,Kolkata,West Bengal,India,Furniture,Chairs,8,2053,16424,2956.32
+2023-11-17,North,Delhi,Delhi,India,Office Supplies,Paper,3,2190,6570,1346.85
+2023-11-18,West,Mumbai,Maharashtra,India,Office Supplies,Binders,7,2327,16289,3746.47
+2023-11-19,South,Bengaluru,Karnataka,India,Technology,Phones,2,264,528,42.24
+2023-11-20,East,Kolkata,West Bengal,India,Technology,Accessories,6,401,2406,252.63
+2023-11-21,North,Delhi,Delhi,India,Furniture,Tables,1,538,538,69.94
+2023-11-22,West,Mumbai,Maharashtra,India,Office Supplies,Paper,5,675,3375,523.13
+2023-11-23,South,Bengaluru,Karnataka,India,Office Supplies,Binders,9,812,7308,1315.44
+2023-11-24,East,Kolkata,West Bengal,India,Technology,Phones,4,949,3796,778.18
+2023-11-25,North,Delhi,Delhi,India,Furniture,Chairs,8,1086,8688,1998.24
+2023-11-26,West,Mumbai,Maharashtra,India,Furniture,Tables,3,1223,3669,293.52
+2023-11-27,South,Bengaluru,Karnataka,India,Office Supplies,Paper,7,1360,9520,999.60
+2023-11-28,East,Kolkata,West Bengal,India,Office Supplies,Binders,2,1497,2994,389.22
+2023-11-29,North,Delhi,Delhi,India,Technology,Accessories,6,1634,9804,1519.62
+2023-11-30,West,Mumbai,Maharashtra,India,Furniture,Chairs,1,1771,1771,318.78
+2023-12-01,South,Bengaluru,Karnataka,India,Furniture,Tables,5,1908,9540,1955.70
+2023-12-02,East,Kolkata,West Bengal,India,Office Supplies,Paper,9,2045,18405,4233.15
+2023-12-03,North,Delhi,Delhi,India,Technology,Phones,4,2182,8728,698.24
+2023-12-04,West,Mumbai,Maharashtra,India,Technology,Accessories,8,2319,18552,1947.96
+2023-12-05,South,Bengaluru,Karnataka,India,Furniture,Chairs,3,256,768,99.84
+2023-12-06,East,Kolkata,West Bengal,India,Furniture,Tables,7,393,2751,426.41
+2023-12-07,North,Delhi,Delhi,India,Office Supplies,Binders,2,530,1060,190.80
+2023-12-08,West,Mumbai,Maharashtra,India,Technology,Phones,6,667,4002,820.41
+2023-12-09,South,Bengaluru,Karnataka,India,Technology,Accessories,1,804,804,184.92
+2023-12-10,East,Kolkata,West Bengal,India,Furniture,Chairs,5,941,4705,376.40
+2023-12-11,North,Delhi,Delhi,India,Office Supplies,Paper,9,1078,9702,1018.71
+2023-12-12,West,Mumbai,Maharashtra,India,Office Supplies,Binders,4,1215,4860,631.80
+2023-12-13,South,Bengaluru,Karnataka,India,Technology,Phones,8,1352,10816,1676.48
+2023-12-14,East,Kolkata,West Bengal,India,Technology,Accessories,3,1489,4467,804.06
+2023-12-15,North,Delhi,Delhi,India,Furniture,Tables,7,1626,11382,2333.31
+2023-12-16,West,Mumbai,Maharashtra,India,Office Supplies,Paper,2,1763,3526,810.98
+2023-12-17,South,Bengaluru,Karnataka,India,Office Supplies,Binders,6,1900,11400,912.00
+2023-12-18,East,Kolkata,West Bengal,India,Technology,Phones,1,2037,2037,213.89
+2023-12-19,North,Delhi,Delhi,India,Furniture,Chairs,5,2174,10870,1413.10
+2023-12-20,West,Mumbai,Maharashtra,India,Furniture,Tables,9,2311,20799,3223.85
+2023-12-21,South,Bengaluru,Karnataka,India,Office Supplies,Paper,4,248,992,178.56
+2023-12-22,East,Kolkata,West Bengal,India,Office Supplies,Binders,8,385,3080,631.40
+2023-12-23,North,Delhi,Delhi,India,Technology,Accessories,3,522,1566,360.18
+2023-12-24,West,Mumbai,Maharashtra,India,Furniture,Chairs,7,659,4613,369.04
+2023-12-25,South,Bengaluru,Karnataka,India,Furniture,Tables,2,796,1592,167.16
+2023-12-26,East,Kolkata,West Bengal,India,Office Supplies,Paper,6,933,5598,727.74
+2023-12-27,North,Delhi,Delhi,India,Technology,Phones,1,1070,1070,165.85
+2023-12-28,West,Mumbai,Maharashtra,India,Technology,Accessories,5,1207,6035,1086.30
+2023-12-29,South,Bengaluru,Karnataka,India,Furniture,Chairs,9,1344,12096,2479.68
+2023-12-30,East,Kolkata,West Bengal,India,Furniture,Tables,4,1481,5924,1362.52
+2023-12-31,North,Delhi,Delhi,India,Office Supplies,Binders,8,1618,12944,1035.52
+2024-01-01,West,Mumbai,Maharashtra,India,Technology,Phones,3,1755,5265,552.83
+2024-01-02,South,Bengaluru,Karnataka,India,Technology,Accessories,7,1892,13244,1721.72
+2024-01-03,East,Kolkata,West Bengal,India,Furniture,Chairs,2,2029,4058,628.99
+2024-01-04,North,Delhi,Delhi,India,Office Supplies,Paper,6,2166,12996,2339.28
+2024-01-05,West,Mumbai,Maharashtra,India,Office Supplies,Binders,1,2303,2303,472.12
+2024-01-06,South,Bengaluru,Karnataka,India,Technology,Phones,5,240,1200,276.00
+2024-01-07,East,Kolkata,West Bengal,India,Technology,Accessories,9,377,3393,271.44
+2024-01-08,North,Delhi,Delhi,India,Furniture,Tables,4,514,2056,215.88
+2024-01-09,West,Mumbai,Maharashtra,India,Office Supplies,Paper,8,651,5208,677.04
+2024-01-10,South,Bengaluru,Karnataka,India,Office Supplies,Binders,3,788,2364,366.42
+2024-01-11,East,Kolkata,West Bengal,India,Technology,Phones,7,925,6475,1165.50
+2024-01-12,North,Delhi,Delhi,India,Furniture,Chairs,2,1062,2124,435.42
+2024-01-13,West,Mumbai,Maharashtra,India,Furniture,Tables,6,1199,7194,1654.62
+2024-01-14,South,Bengaluru,Karnataka,India,Office Supplies,Paper,1,1336,1336,106.88
+2024-01-15,East,Kolkata,West Bengal,India,Office Supplies,Binders,5,1473,7365,773.33
+2024-01-16,North,Delhi,Delhi,India,Technology,Accessories,9,1610,14490,1883.70
+2024-01-17,West,Mumbai,Maharashtra,India,Furniture,Chairs,4,1747,6988,1083.14
+2024-01-18,South,Bengaluru,Karnataka,India,Furniture,Tables,8,1884,15072,2712.96
+2024-01-19,East,Kolkata,West Bengal,India,Office Supplies,Paper,3,2021,6063,1242.92
+2024-01-20,North,Delhi,Delhi,India,Technology,Phones,7,2158,15106,3474.38
+2024-01-21,West,Mumbai,Maharashtra,India,Technology,Accessories,2,2295,4590,367.20
+2024-01-22,South,Bengaluru,Karnataka,India,Furniture,Chairs,6,232,1392,146.16
+2024-01-23,East,Kolkata,West Bengal,India,Furniture,Tables,1,369,369,47.97
+2024-01-24,North,Delhi,Delhi,India,Office Supplies,Binders,5,506,2530,392.15
+2024-01-25,West,Mumbai,Maharashtra,India,Technology,Phones,9,643,5787,1041.66
+2024-01-26,South,Bengaluru,Karnataka,India,Technology,Accessories,4,780,3120,639.60
+2024-01-27,East,Kolkata,West Bengal,India,Furniture,Chairs,8,917,7336,1687.28
+2024-01-28,North,Delhi,Delhi,India,Office Supplies,Paper,3,1054,3162,252.96
+2024-01-29,West,Mumbai,Maharashtra,India,Office Supplies,Binders,7,1191,8337,875.39
+2024-01-30,South,Bengaluru,Karnataka,India,Technology,Phones,2,1328,2656,345.28
+2024-01-31,East,Kolkata,West Bengal,India,Technology,Accessories,6,1465,8790,1362.45
+2024-02-01,North,Delhi,Delhi,India,Furniture,Tables,1,1602,1602,288.36
+2024-02-02,West,Mumbai,Maharashtra,India,Office Supplies,Paper,5,1739,8695,1782.48
+2024-02-03,South,Bengaluru,Karnataka,India,Office Supplies,Binders,9,1876,16884,3883.32
+2024-02-04,East,Kolkata,West Bengal,India,Technology,Phones,4,2013,8052,644.16
+2024-02-05,North,Delhi,Delhi,India,Furniture,Chairs,8,2150,17200,1806.00
+2024-02-06,West,Mumbai,Maharashtra,India,Furniture,Tables,3,2287,6861,891.93
+2024-02-07,South,Bengaluru,Karnataka,India,Office Supplies,Paper,7,224,1568,243.04
+2024-02-08,East,Kolkata,West Bengal,India,Office Supplies,Binders,2,361,722,129.96
+2024-02-09,North,Delhi,Delhi,India,Technology,Accessories,6,498,2988,612.54
+2024-02-10,West,Mumbai,Maharashtra,India,Furniture,Chairs,1,635,635,146.05
+2024-02-11,South,Bengaluru,Karnataka,India,Furniture,Tables,5,772,3860,308.80
+2024-02-12,East,Kolkata,West Bengal,India,Office Supplies,Paper,9,909,8181,859.01
+2024-02-13,North,Delhi,Delhi,India,Technology,Phones,4,1046,4184,543.92
+2024-02-14,West,Mumbai,Maharashtra,India,Technology,Accessories,8,1183,9464,1466.92
+2024-02-15,South,Bengaluru,Karnataka,India,Furniture,Chairs,3,1320,3960,712.80
+2024-02-16,East,Kolkata,West Bengal,India,Furniture,Tables,7,1457,10199,2090.80
+2024-02-17,North,Delhi,Delhi,India,Office Supplies,Binders,2,1594,3188,733.24
+2024-02-18,West,Mumbai,Maharashtra,India,Technology,Phones,6,1731,10386,830.88
+2024-02-19,South,Bengaluru,Karnataka,India,Technology,Accessories,1,1868,1868,196.14
+2024-02-20,East,Kolkata,West Bengal,India,Furniture,Chairs,5,2005,10025,1303.25
+2024-02-21,North,Delhi,Delhi,India,Office Supplies,Paper,9,2142,19278,2988.09
+2024-02-22,West,Mumbai,Maharashtra,India,Office Supplies,Binders,4,2279,9116,1640.88
+2024-02-23,South,Bengaluru,Karnataka,India,Technology,Phones,8,216,1728,354.24
+2024-02-24,East,Kolkata,West Bengal,India,Technology,Accessories,3,353,1059,243.57
+2024-02-25,North,Delhi,Delhi,India,Furniture,Tables,7,490,3430,274.40
+2024-02-26,West,Mumbai,Maharashtra,India,Office Supplies,Paper,2,627,1254,131.67
+2024-02-27,South,Bengaluru,Karnataka,India,Office Supplies,Binders,6,764,4584,595.92
+2024-02-28,East,Kolkata,West Bengal,India,Technology,Phones,1,901,901,139.66
+2024-02-29,North,Delhi,Delhi,India,Furniture,Chairs,5,1038,5190,934.20
+2024-03-01,West,Mumbai,Maharashtra,India,Furniture,Tables,9,1175,10575,2167.88
+2024-03-02,South,Bengaluru,Karnataka,India,Office Supplies,Paper,4,1312,5248,1207.04
+2024-03-03,East,Kolkata,West Bengal,India,Office Supplies,Binders,8,1449,11592,927.36
+2024-03-04,North,Delhi,Delhi,India,Technology,Accessories,3,1586,4758,499.59
+2024-03-05,West,Mumbai,Maharashtra,India,Furniture,Chairs,7,1723,12061,1567.93
+2024-03-06,South,Bengaluru,Karnataka,India,Furniture,Tables,2,1860,3720,576.60
+2024-03-07,East,Kolkata,West Bengal,India,Office Supplies,Paper,6,1997,11982,2156.76
+2024-03-08,North,Delhi,Delhi,India,Technology,Phones,1,2134,2134,437.47
+2024-03-09,West,Mumbai,Maharashtra,India,Technology,Accessories,5,2271,11355,2611.65
+2024-03-10,South,Bengaluru,Karnataka,India,Furniture,Chairs,9,208,1872,149.76
+2024-03-11,East,Kolkata,West Bengal,India,Furniture,Tables,4,345,1380,144.90
+2024-03-12,North,Delhi,Delhi,India,Office Supplies,Binders,8,482,3856,501.28
+2024-03-13,West,Mumbai,Maharashtra,India,Technology,Phones,3,619,1857,287.84
+2024-03-14,South,Bengaluru,Karnataka,India,Technology,Accessories,7,756,5292,952.56
+2024-03-15,East,Kolkata,West Bengal,India,Furniture,Chairs,2,893,1786,366.13
+2024-03-16,North,Delhi,Delhi,India,Office Supplies,Paper,6,1030,6180,1421.40
+2024-03-17,West,Mumbai,Maharashtra,India,Office Supplies,Binders,1,1167,1167,93.36
+2024-03-18,South,Bengaluru,Karnataka,India,Technology,Phones,5,1304,6520,684.60
+2024-03-19,East,Kolkata,West Bengal,India,Technology,Accessories,9,1441,12969,1685.97
+2024-03-20,North,Delhi,Delhi,India,Furniture,Tables,4,1578,6312,978.36
+2024-03-21,West,Mumbai,Maharashtra,India,Office Supplies,Paper,8,1715,13720,2469.60
+2024-03-22,South,Bengaluru,Karnataka,India,Office Supplies,Binders,3,1852,5556,1138.98
+2024-03-23,East,Kolkata,West Bengal,India,Technology,Phones,7,1989,13923,3202.29
+2024-03-24,North,Delhi,Delhi,India,Furniture,Chairs,2,2126,4252,340.16
+2024-03-25,West,Mumbai,Maharashtra,India,Furniture,Tables,6,2263,13578,1425.69
+2024-03-26,South,Bengaluru,Karnataka,India,Office Supplies,Paper,1,200,200,26.00
+2024-03-27,East,Kolkata,West Bengal,India,Office Supplies,Binders,5,337,1685,261.18
+2024-03-28,North,Delhi,Delhi,India,Technology,Accessories,9,474,4266,767.88
+2024-03-29,West,Mumbai,Maharashtra,India,Furniture,Chairs,4,611,2444,501.02
+2024-03-30,South,Bengaluru,Karnataka,India,Furniture,Tables,8,748,5984,1376.32
+2024-03-31,East,Kolkata,West Bengal,India,Office Supplies,Paper,3,885,2655,212.40
+2024-04-01,North,Delhi,Delhi,India,Technology,Phones,7,1022,7154,751.17
+2024-04-02,West,Mumbai,Maharashtra,India,Technology,Accessories,2,1159,2318,301.34
+2024-04-03,South,Bengaluru,Karnataka,India,Furniture,Chairs,6,1296,7776,1205.28
+2024-04-04,East,Kolkata,West Bengal,India,Furniture,Tables,1,1433,1433,257.94
+2024-04-05,North,Delhi,Delhi,India,Office Supplies,Binders,5,1570,7850,1609.25
+2024-04-06,West,Mumbai,Maharashtra,India,Technology,Phones,9,1707,15363,3533.49
+2024-04-07,South,Bengaluru,Karnataka,India,Technology,Accessories,4,1844,7376,590.08
+2024-04-08,East,Kolkata,West Bengal,India,Furniture,Chairs,8,1981,15848,1664.04
+2024-04-09,North,Delhi,Delhi,India,Office Supplies,Paper,3,2118,6354,826.02
+2024-04-10,West,Mumbai,Maharashtra,India,Office Supplies,Binders,7,2255,15785,2446.68
+2024-04-11,South,Bengaluru,Karnataka,India,Technology,Phones,2,192,384,69.12
+2024-04-12,East,Kolkata,West Bengal,India,Technology,Accessories,6,329,1974,404.67
+2024-04-13,North,Delhi,Delhi,India,Furniture,Tables,1,466,466,107.18
+2024-04-14,West,Mumbai,Maharashtra,India,Office Supplies,Paper,5,603,3015,241.20
+2024-04-15,South,Bengaluru,Karnataka,India,Office Supplies,Binders,9,740,6660,699.30
+2024-04-16,East,Kolkata,West Bengal,India,Technology,Phones,4,877,3508,456.04
+2024-04-17,North,Delhi,Delhi,India,Furniture,Chairs,8,1014,8112,1257.36
+2024-04-18,West,Mumbai,Maharashtra,India,Furniture,Tables,3,1151,3453,621.54
+2024-04-19,South,Bengaluru,Karnataka,India,Office Supplies,Paper,7,1288,9016,1848.28
+2024-04-20,East,Kolkata,West Bengal,India,Office Supplies,Binders,2,1425,2850,655.50
+2024-04-21,North,Delhi,Delhi,India,Technology,Accessories,6,1562,9372,749.76
+2024-04-22,West,Mumbai,Maharashtra,India,Furniture,Chairs,1,1699,1699,178.40
+2024-04-23,South,Bengaluru,Karnataka,India,Furniture,Tables,5,1836,9180,1193.40
+2024-04-24,East,Kolkata,West Bengal,India,Office Supplies,Paper,9,1973,17757,2752.34
+2024-04-25,North,Delhi,Delhi,India,Technology,Phones,4,2110,8440,1519.20
+2024-04-26,West,Mumbai,Maharashtra,India,Technology,Accessories,8,2247,17976,3685.08
+2024-04-27,South,Bengaluru,Karnataka,India,Furniture,Chairs,3,184,552,126.96
+2024-04-28,East,Kolkata,West Bengal,India,Furniture,Tables,7,321,2247,179.76
+2024-04-29,North,Delhi,Delhi,India,Office Supplies,Binders,2,458,916,96.18
+2024-04-30,West,Mumbai,Maharashtra,India,Technology,Phones,6,595,3570,464.10
+2024-05-01,South,Bengaluru,Karnataka,India,Technology,Accessories,1,732,732,113.46
+2024-05-02,East,Kolkata,West Bengal,India,Furniture,Chairs,5,869,4345,782.10
+2024-05-03,North,Delhi,Delhi,India,Office Supplies,Paper,9,1006,9054,1856.07
+2024-05-04,West,Mumbai,Maharashtra,India,Office Supplies,Binders,4,1143,4572,1051.56
+2024-05-05,South,Bengaluru,Karnataka,India,Technology,Phones,8,1280,10240,819.20
+2024-05-06,East,Kolkata,West Bengal,India,Technology,Accessories,3,1417,4251,446.36
+2024-05-07,North,Delhi,Delhi,India,Furniture,Tables,7,1554,10878,1414.14
+2024-05-08,West,Mumbai,Maharashtra,India,Office Supplies,Paper,2,1691,3382,524.21
+2024-05-09,South,Bengaluru,Karnataka,India,Office Supplies,Binders,6,1828,10968,1974.24
+2024-05-10,East,Kolkata,West Bengal,India,Technology,Phones,1,1965,1965,402.83
+2024-05-11,North,Delhi,Delhi,India,Furniture,Chairs,5,2102,10510,2417.30
+2024-05-12,West,Mumbai,Maharashtra,India,Furniture,Tables,9,2239,20151,1612.08
+2024-05-13,South,Bengaluru,Karnataka,India,Office Supplies,Paper,4,176,704,73.92
+2024-05-14,East,Kolkata,West Bengal,India,Office Supplies,Binders,8,313,2504,325.52
+2024-05-15,North,Delhi,Delhi,India,Technology,Accessories,3,450,1350,209.25
+2024-05-16,West,Mumbai,Maharashtra,India,Furniture,Chairs,7,587,4109,739.62
+2024-05-17,South,Bengaluru,Karnataka,India,Furniture,Tables,2,724,1448,296.84
+2024-05-18,East,Kolkata,West Bengal,India,Office Supplies,Paper,6,861,5166,1188.18
+2024-05-19,North,Delhi,Delhi,India,Technology,Phones,1,998,998,79.84
+2024-05-20,West,Mumbai,Maharashtra,India,Technology,Accessories,5,1135,5675,595.88
+2024-05-21,South,Bengaluru,Karnataka,India,Furniture,Chairs,9,1272,11448,1488.24
+2024-05-22,East,Kolkata,West Bengal,India,Furniture,Tables,4,1409,5636,873.58
+2024-05-23,North,Delhi,Delhi,India,Office Supplies,Binders,8,1546,12368,2226.24
+2024-05-24,West,Mumbai,Maharashtra,India,Technology,Phones,3,1683,5049,1035.05
+2024-05-25,South,Bengaluru,Karnataka,India,Technology,Accessories,7,1820,12740,2930.20
+2024-05-26,East,Kolkata,West Bengal,India,Furniture,Chairs,2,1957,3914,313.12
+2024-05-27,North,Delhi,Delhi,India,Office Supplies,Paper,6,2094,12564,1319.22
+2024-05-28,West,Mumbai,Maharashtra,India,Office Supplies,Binders,1,2231,2231,290.03
+2024-05-29,South,Bengaluru,Karnataka,India,Technology,Phones,5,168,840,130.20
+2024-05-30,East,Kolkata,West Bengal,India,Technology,Accessories,9,305,2745,494.10
+2024-05-31,North,Delhi,Delhi,India,Furniture,Tables,4,442,1768,362.44
+2024-06-01,West,Mumbai,Maharashtra,India,Office Supplies,Paper,8,579,4632,1065.36
+2024-06-02,South,Bengaluru,Karnataka,India,Office Supplies,Binders,3,716,2148,171.84
+2024-06-03,East,Kolkata,West Bengal,India,Technology,Phones,7,853,5971,626.96
+2024-06-04,North,Delhi,Delhi,India,Furniture,Chairs,2,990,1980,257.40
+2024-06-05,West,Mumbai,Maharashtra,India,Furniture,Tables,6,1127,6762,1048.11
+2024-06-06,South,Bengaluru,Karnataka,India,Office Supplies,Paper,1,1264,1264,227.52
+2024-06-07,East,Kolkata,West Bengal,India,Office Supplies,Binders,5,1401,7005,1436.03
+2024-06-08,North,Delhi,Delhi,India,Technology,Accessories,9,1538,13842,3183.66
+2024-06-09,West,Mumbai,Maharashtra,India,Furniture,Chairs,4,1675,6700,536.00
+2024-06-10,South,Bengaluru,Karnataka,India,Furniture,Tables,8,1812,14496,1522.08
+2024-06-11,East,Kolkata,West Bengal,India,Office Supplies,Paper,3,1949,5847,760.11
+2024-06-12,North,Delhi,Delhi,India,Technology,Phones,7,2086,14602,2263.31
+2024-06-13,West,Mumbai,Maharashtra,India,Technology,Accessories,2,2223,4446,800.28
+2024-06-14,South,Bengaluru,Karnataka,India,Furniture,Chairs,6,160,960,196.80
+2024-06-15,East,Kolkata,West Bengal,India,Furniture,Tables,1,297,297,68.31
+2024-06-16,North,Delhi,Delhi,India,Office Supplies,Binders,5,434,2170,173.60
+2024-06-17,West,Mumbai,Maharashtra,India,Technology,Phones,9,571,5139,539.60
+2024-06-18,South,Bengaluru,Karnataka,India,Technology,Accessories,4,708,2832,368.16
+2024-06-19,East,Kolkata,West Bengal,India,Furniture,Chairs,8,845,6760,1047.80
+2024-06-20,North,Delhi,Delhi,India,Office Supplies,Paper,3,982,2946,530.28
+2024-06-21,West,Mumbai,Maharashtra,India,Office Supplies,Binders,7,1119,7833,1605.77
+2024-06-22,South,Bengaluru,Karnataka,India,Technology,Phones,2,1256,2512,577.76
+2024-06-23,East,Kolkata,West Bengal,India,Technology,Accessories,6,1393,8358,668.64
+2024-06-24,North,Delhi,Delhi,India,Furniture,Tables,1,1530,1530,160.65
+2024-06-25,West,Mumbai,Maharashtra,India,Office Supplies,Paper,5,1667,8335,1083.55
+2024-06-26,South,Bengaluru,Karnataka,India,Office Supplies,Binders,9,1804,16236,2516.58
+2024-06-27,East,Kolkata,West Bengal,India,Technology,Phones,4,1941,7764,1397.52
+2024-06-28,North,Delhi,Delhi,India,Furniture,Chairs,8,2078,16624,3407.92
+2024-06-29,West,Mumbai,Maharashtra,India,Furniture,Tables,3,2215,6645,1528.35
+2024-06-30,South,Bengaluru,Karnataka,India,Office Supplies,Paper,7,152,1064,85.12
+2024-07-01,East,Kolkata,West Bengal,India,Office Supplies,Binders,2,289,578,60.69
+2024-07-02,North,Delhi,Delhi,India,Technology,Accessories,6,426,2556,332.28
+2024-07-03,West,Mumbai,Maharashtra,India,Furniture,Chairs,1,563,563,87.27
+2024-07-04,South,Bengaluru,Karnataka,India,Furniture,Tables,5,700,3500,630.00
+2024-07-05,East,Kolkata,West Bengal,India,Office Supplies,Paper,9,837,7533,1544.27
+2024-07-06,North,Delhi,Delhi,India,Technology,Phones,4,974,3896,896.08
+2024-07-07,West,Mumbai,Maharashtra,India,Technology,Accessories,8,1111,8888,711.04
+2024-07-08,South,Bengaluru,Karnataka,India,Furniture,Chairs,3,1248,3744,393.12
+2024-07-09,East,Kolkata,West Bengal,India,Furniture,Tables,7,1385,9695,1260.35
+2024-07-10,North,Delhi,Delhi,India,Office Supplies,Binders,2,1522,3044,471.82
+2024-07-11,West,Mumbai,Maharashtra,India,Technology,Phones,6,1659,9954,1791.72
+2024-07-12,South,Bengaluru,Karnataka,India,Technology,Accessories,1,1796,1796,368.18
+2024-07-13,East,Kolkata,West Bengal,India,Furniture,Chairs,5,1933,9665,2222.95
+2024-07-14,North,Delhi,Delhi,India,Office Supplies,Paper,9,2070,18630,1490.40
+2024-07-15,West,Mumbai,Maharashtra,India,Office Supplies,Binders,4,2207,8828,926.94
+2024-07-16,South,Bengaluru,Karnataka,India,Technology,Phones,8,2344,18752,2437.76
+2024-07-17,East,Kolkata,West Bengal,India,Technology,Accessories,3,281,843,130.67
+2024-07-18,North,Delhi,Delhi,India,Furniture,Tables,7,418,2926,526.68
+2024-07-19,West,Mumbai,Maharashtra,India,Office Supplies,Paper,2,555,1110,227.55
+2024-07-20,South,Bengaluru,Karnataka,India,Office Supplies,Binders,6,692,4152,954.96
+2024-07-21,East,Kolkata,West Bengal,India,Technology,Phones,1,829,829,66.32
+2024-07-22,North,Delhi,Delhi,India,Furniture,Chairs,5,966,4830,507.15
+2024-07-23,West,Mumbai,Maharashtra,India,Furniture,Tables,9,1103,9927,1290.51
+2024-07-24,South,Bengaluru,Karnataka,India,Office Supplies,Paper,4,1240,4960,768.80
+2024-07-25,East,Kolkata,West Bengal,India,Office Supplies,Binders,8,1377,11016,1982.88
+2024-07-26,North,Delhi,Delhi,India,Technology,Accessories,3,1514,4542,931.11
+2024-07-27,West,Mumbai,Maharashtra,India,Furniture,Chairs,7,1651,11557,2658.11
+2024-07-28,South,Bengaluru,Karnataka,India,Furniture,Tables,2,1788,3576,286.08
+2024-07-29,East,Kolkata,West Bengal,India,Office Supplies,Paper,6,1925,11550,1212.75
+2024-07-30,North,Delhi,Delhi,India,Technology,Phones,1,2062,2062,268.06
+2024-07-31,West,Mumbai,Maharashtra,India,Technology,Accessories,5,2199,10995,1704.23
+2024-08-01,South,Bengaluru,Karnataka,India,Furniture,Chairs,9,2336,21024,3784.32
+2024-08-02,East,Kolkata,West Bengal,India,Furniture,Tables,4,273,1092,223.86
+2024-08-03,North,Delhi,Delhi,India,Office Supplies,Binders,8,410,3280,754.40
+2024-08-04,West,Mumbai,Maharashtra,India,Technology,Phones,3,547,1641,131.28
+2024-08-05,South,Bengaluru,Karnataka,India,Technology,Accessories,7,684,4788,502.74
+2024-08-06,East,Kolkata,West Bengal,India,Furniture,Chairs,2,821,1642,213.46
+2024-08-07,North,Delhi,Delhi,India,Office Supplies,Paper,6,958,5748,890.94
+2024-08-08,West,Mumbai,Maharashtra,India,Office Supplies,Binders,1,1095,1095,197.10
+2024-08-09,South,Bengaluru,Karnataka,India,Technology,Phones,5,1232,6160,1262.80
+2024-08-10,East,Kolkata,West Bengal,India,Technology,Accessories,9,1369,12321,2833.83
+2024-08-11,North,Delhi,Delhi,India,Furniture,Tables,4,1506,6024,481.92
+2024-08-12,West,Mumbai,Maharashtra,India,Office Supplies,Paper,8,1643,13144,1380.12
+2024-08-13,South,Bengaluru,Karnataka,India,Office Supplies,Binders,3,1780,5340,694.20
+2024-08-14,East,Kolkata,West Bengal,India,Technology,Phones,7,1917,13419,2079.95
+2024-08-15,North,Delhi,Delhi,India,Furniture,Chairs,2,2054,4108,739.44
+2024-08-16,West,Mumbai,Maharashtra,India,Furniture,Tables,6,2191,13146,2694.93
+2024-08-17,South,Bengaluru,Karnataka,India,Office Supplies,Paper,1,2328,2328,535.44
+2024-08-18,East,Kolkata,West Bengal,India,Office Supplies,Binders,5,265,1325,106.00
+2024-08-19,North,Delhi,Delhi,India,Technology,Accessories,9,402,3618,379.89
+2024-08-20,West,Mumbai,Maharashtra,India,Furniture,Chairs,4,539,2156,280.28
+2024-08-21,South,Bengaluru,Karnataka,India,Furniture,Tables,8,676,5408,838.24
+2024-08-22,East,Kolkata,West Bengal,India,Office Supplies,Paper,3,813,2439,439.02
+2024-08-23,North,Delhi,Delhi,India,Technology,Phones,7,950,6650,1363.25
+2024-08-24,West,Mumbai,Maharashtra,India,Technology,Accessories,2,1087,2174,500.02
+2024-08-25,South,Bengaluru,Karnataka,India,Furniture,Chairs,6,1224,7344,587.52
+2024-08-26,East,Kolkata,West Bengal,India,Furniture,Tables,1,1361,1361,142.91
+2024-08-27,North,Delhi,Delhi,India,Office Supplies,Binders,5,1498,7490,973.70
+2024-08-28,West,Mumbai,Maharashtra,India,Technology,Phones,9,1635,14715,2280.83
+2024-08-29,South,Bengaluru,Karnataka,India,Technology,Accessories,4,1772,7088,1275.84
+2024-08-30,East,Kolkata,West Bengal,India,Furniture,Chairs,8,1909,15272,3130.76
+2024-08-31,North,Delhi,Delhi,India,Office Supplies,Paper,3,2046,6138,1411.74
+2024-09-01,West,Mumbai,Maharashtra,India,Office Supplies,Binders,7,2183,15281,1222.48
+2024-09-02,South,Bengaluru,Karnataka,India,Technology,Phones,2,2320,4640,487.20
+2024-09-03,East,Kolkata,West Bengal,India,Technology,Accessories,6,257,1542,200.46
+2024-09-04,North,Delhi,Delhi,India,Furniture,Tables,1,394,394,61.07
+2024-09-05,West,Mumbai,Maharashtra,India,Office Supplies,Paper,5,531,2655,477.90
+2024-09-06,South,Bengaluru,Karnataka,India,Office Supplies,Binders,9,668,6012,1232.46
+2024-09-07,East,Kolkata,West Bengal,India,Technology,Phones,4,805,3220,740.60
+2024-09-08,North,Delhi,Delhi,India,Furniture,Chairs,8,942,7536,602.88
+2024-09-09,West,Mumbai,Maharashtra,India,Furniture,Tables,3,1079,3237,339.89
+2024-09-10,South,Bengaluru,Karnataka,India,Office Supplies,Paper,7,1216,8512,1106.56
+2024-09-11,East,Kolkata,West Bengal,India,Office Supplies,Binders,2,1353,2706,419.43
+2024-09-12,North,Delhi,Delhi,India,Technology,Accessories,6,1490,8940,1609.20
+2024-09-13,West,Mumbai,Maharashtra,India,Furniture,Chairs,1,1627,1627,333.54
+2024-09-14,South,Bengaluru,Karnataka,India,Furniture,Tables,5,1764,8820,2028.60
+2024-09-15,East,Kolkata,West Bengal,India,Office Supplies,Paper,9,1901,17109,1368.72
+2024-09-16,North,Delhi,Delhi,India,Technology,Phones,4,2038,8152,855.96
+2024-09-17,West,Mumbai,Maharashtra,India,Technology,Accessories,8,2175,17400,2262.00
+2024-09-18,South,Bengaluru,Karnataka,India,Furniture,Chairs,3,2312,6936,1075.08
+2024-09-19,East,Kolkata,West Bengal,India,Furniture,Tables,7,249,1743,313.74
+2024-09-20,North,Delhi,Delhi,India,Office Supplies,Binders,2,386,772,158.26
+2024-09-21,West,Mumbai,Maharashtra,India,Technology,Phones,6,523,3138,721.74
+2024-09-22,South,Bengaluru,Karnataka,India,Technology,Accessories,1,660,660,52.80
+2024-09-23,East,Kolkata,West Bengal,India,Furniture,Chairs,5,797,3985,418.43
+2024-09-24,North,Delhi,Delhi,India,Office Supplies,Paper,9,934,8406,1092.78
+2024-09-25,West,Mumbai,Maharashtra,India,Office Supplies,Binders,4,1071,4284,664.02
+2024-09-26,South,Bengaluru,Karnataka,India,Technology,Phones,8,1208,9664,1739.52
+2024-09-27,East,Kolkata,West Bengal,India,Technology,Accessories,3,1345,4035,827.18
+2024-09-28,North,Delhi,Delhi,India,Furniture,Tables,7,1482,10374,2386.02
+2024-09-29,West,Mumbai,Maharashtra,India,Office Supplies,Paper,2,1619,3238,259.04
+2024-09-30,South,Bengaluru,Karnataka,India,Office Supplies,Binders,6,1756,10536,1106.28
+2024-10-01,East,Kolkata,West Bengal,India,Technology,Phones,1,1893,1893,246.09
+2024-10-02,North,Delhi,Delhi,India,Furniture,Chairs,5,2030,10150,1573.25
+2024-10-03,West,Mumbai,Maharashtra,India,Furniture,Tables,9,2167,19503,3510.54
+2024-10-04,South,Bengaluru,Karnataka,India,Office Supplies,Paper,4,2304,9216,1889.28
+2024-10-05,East,Kolkata,West Bengal,India,Office Supplies,Binders,8,241,1928,443.44
+2024-10-06,North,Delhi,Delhi,India,Technology,Accessories,3,378,1134,90.72
+2024-10-07,West,Mumbai,Maharashtra,India,Furniture,Chairs,7,515,3605,378.53
+2024-10-08,South,Bengaluru,Karnataka,India,Furniture,Tables,2,652,1304,169.52
+2024-10-09,East,Kolkata,West Bengal,India,Office Supplies,Paper,6,789,4734,733.77
+2024-10-10,North,Delhi,Delhi,India,Technology,Phones,1,926,926,166.68
+2024-10-11,West,Mumbai,Maharashtra,India,Technology,Accessories,5,1063,5315,1089.58
+2024-10-12,South,Bengaluru,Karnataka,India,Furniture,Chairs,9,1200,10800,2484.00
+2024-10-13,East,Kolkata,West Bengal,India,Furniture,Tables,4,1337,5348,427.84
+2024-10-14,North,Delhi,Delhi,India,Office Supplies,Binders,8,1474,11792,1238.16
+2024-10-15,West,Mumbai,Maharashtra,India,Technology,Phones,3,1611,4833,628.29
+2024-10-16,South,Bengaluru,Karnataka,India,Technology,Accessories,7,1748,12236,1896.58
+2024-10-17,East,Kolkata,West Bengal,India,Furniture,Chairs,2,1885,3770,678.60
+2024-10-18,North,Delhi,Delhi,India,Office Supplies,Paper,6,2022,12132,2487.06
+2024-10-19,West,Mumbai,Maharashtra,India,Office Supplies,Binders,1,2159,2159,496.57
+2024-10-20,South,Bengaluru,Karnataka,India,Technology,Phones,5,2296,11480,918.40
+2024-10-21,East,Kolkata,West Bengal,India,Technology,Accessories,9,233,2097,220.19
+2024-10-22,North,Delhi,Delhi,India,Furniture,Tables,4,370,1480,192.40
+2024-10-23,West,Mumbai,Maharashtra,India,Office Supplies,Paper,8,507,4056,628.68
+2024-10-24,South,Bengaluru,Karnataka,India,Office Supplies,Binders,3,644,1932,347.76
+2024-10-25,East,Kolkata,West Bengal,India,Technology,Phones,7,781,5467,1120.74
+2024-10-26,North,Delhi,Delhi,India,Furniture,Chairs,2,918,1836,422.28
+2024-10-27,West,Mumbai,Maharashtra,India,Furniture,Tables,6,1055,6330,506.40
+2024-10-28,South,Bengaluru,Karnataka,India,Office Supplies,Paper,1,1192,1192,125.16
+2024-10-29,East,Kolkata,West Bengal,India,Office Supplies,Binders,5,1329,6645,863.85
+2024-10-30,North,Delhi,Delhi,India,Technology,Accessories,9,1466,13194,2045.07
+2024-10-31,West,Mumbai,Maharashtra,India,Furniture,Chairs,4,1603,6412,1154.16
+2024-11-01,South,Bengaluru,Karnataka,India,Furniture,Tables,8,1740,13920,2853.60
+2024-11-02,East,Kolkata,West Bengal,India,Office Supplies,Paper,3,1877,5631,1295.13
+2024-11-03,North,Delhi,Delhi,India,Technology,Phones,7,2014,14098,1127.84
+2024-11-04,West,Mumbai,Maharashtra,India,Technology,Accessories,2,2151,4302,451.71
+2024-11-05,South,Bengaluru,Karnataka,India,Furniture,Chairs,6,2288,13728,1784.64
+2024-11-06,East,Kolkata,West Bengal,India,Furniture,Tables,1,225,225,34.88
+2024-11-07,North,Delhi,Delhi,India,Office Supplies,Binders,5,362,1810,325.80
+2024-11-08,West,Mumbai,Maharashtra,India,Technology,Phones,9,499,4491,920.66
+2024-11-09,South,Bengaluru,Karnataka,India,Technology,Accessories,4,636,2544,585.12
+2024-11-10,East,Kolkata,West Bengal,India,Furniture,Chairs,8,773,6184,494.72
+2024-11-11,North,Delhi,Delhi,India,Office Supplies,Paper,3,910,2730,286.65
+2024-11-12,West,Mumbai,Maharashtra,India,Office Supplies,Binders,7,1047,7329,952.77
+2024-11-13,South,Bengaluru,Karnataka,India,Technology,Phones,2,1184,2368,367.04
+2024-11-14,East,Kolkata,West Bengal,India,Technology,Accessories,6,1321,7926,1426.68
+2024-11-15,North,Delhi,Delhi,India,Furniture,Tables,1,1458,1458,298.89
+2024-11-16,West,Mumbai,Maharashtra,India,Office Supplies,Paper,5,1595,7975,1834.25
+2024-11-17,South,Bengaluru,Karnataka,India,Office Supplies,Binders,9,1732,15588,1247.04
+2024-11-18,East,Kolkata,West Bengal,India,Technology,Phones,4,1869,7476,784.98
+2024-11-19,North,Delhi,Delhi,India,Furniture,Chairs,8,2006,16048,2086.24
+2024-11-20,West,Mumbai,Maharashtra,India,Furniture,Tables,3,2143,6429,996.50
+2024-11-21,South,Bengaluru,Karnataka,India,Office Supplies,Paper,7,2280,15960,2872.80
+2024-11-22,East,Kolkata,West Bengal,India,Office Supplies,Binders,2,217,434,88.97
+2024-11-23,North,Delhi,Delhi,India,Technology,Accessories,6,354,2124,488.52
+2024-11-24,West,Mumbai,Maharashtra,India,Furniture,Chairs,1,491,491,39.28
+2024-11-25,South,Bengaluru,Karnataka,India,Furniture,Tables,5,628,3140,329.70
+2024-11-26,East,Kolkata,West Bengal,India,Office Supplies,Paper,9,765,6885,895.05
+2024-11-27,North,Delhi,Delhi,India,Technology,Phones,4,902,3608,559.24
+2024-11-28,West,Mumbai,Maharashtra,India,Technology,Accessories,8,1039,8312,1496.16
+2024-11-29,South,Bengaluru,Karnataka,India,Furniture,Chairs,3,1176,3528,723.24
+2024-11-30,East,Kolkata,West Bengal,India,Furniture,Tables,7,1313,9191,2113.93
+2024-12-01,North,Delhi,Delhi,India,Office Supplies,Binders,2,1450,2900,232.00
+2024-12-02,West,Mumbai,Maharashtra,India,Technology,Phones,6,1587,9522,999.81
+2024-12-03,South,Bengaluru,Karnataka,India,Technology,Accessories,1,1724,1724,224.12
+2024-12-04,East,Kolkata,West Bengal,India,Furniture,Chairs,5,1861,9305,1442.28
+2024-12-05,North,Delhi,Delhi,India,Office Supplies,Paper,9,1998,17982,3236.76
+2024-12-06,West,Mumbai,Maharashtra,India,Office Supplies,Binders,4,2135,8540,1750.70
+2024-12-07,South,Bengaluru,Karnataka,India,Technology,Phones,8,2272,18176,4180.48
+2024-12-08,East,Kolkata,West Bengal,India,Technology,Accessories,3,209,627,50.16
+2024-12-09,North,Delhi,Delhi,India,Furniture,Tables,7,346,2422,254.31
+2024-12-10,West,Mumbai,Maharashtra,India,Office Supplies,Paper,2,483,966,125.58
+2024-12-11,South,Bengaluru,Karnataka,India,Office Supplies,Binders,6,620,3720,576.60
+2024-12-12,East,Kolkata,West Bengal,India,Technology,Phones,1,757,757,136.26
+2024-12-13,North,Delhi,Delhi,India,Furniture,Chairs,5,894,4470,916.35
+2024-12-14,West,Mumbai,Maharashtra,India,Furniture,Tables,9,1031,9279,2134.17
+2024-12-15,South,Bengaluru,Karnataka,India,Office Supplies,Paper,4,1168,4672,373.76
+2024-12-16,East,Kolkata,West Bengal,India,Office Supplies,Binders,8,1305,10440,1096.20
+2024-12-17,North,Delhi,Delhi,India,Technology,Accessories,3,1442,4326,562.38
+2024-12-18,West,Mumbai,Maharashtra,India,Furniture,Chairs,7,1579,11053,1713.22
+2024-12-19,South,Bengaluru,Karnataka,India,Furniture,Tables,2,1716,3432,617.76
+2024-12-20,East,Kolkata,West Bengal,India,Office Supplies,Paper,6,1853,11118,2279.19
+2024-12-21,North,Delhi,Delhi,India,Technology,Phones,1,1990,1990,457.70
+2024-12-22,West,Mumbai,Maharashtra,India,Technology,Accessories,5,2127,10635,850.80
+2024-12-23,South,Bengaluru,Karnataka,India,Furniture,Chairs,9,2264,20376,2139.48
+2024-12-24,East,Kolkata,West Bengal,India,Furniture,Tables,4,201,804,104.52
+2024-12-25,North,Delhi,Delhi,India,Office Supplies,Binders,8,338,2704,419.12
+2024-12-26,West,Mumbai,Maharashtra,India,Technology,Phones,3,475,1425,256.50
+2024-12-27,South,Bengaluru,Karnataka,India,Technology,Accessories,7,612,4284,878.22
+2024-12-28,East,Kolkata,West Bengal,India,Furniture,Chairs,2,749,1498,344.54
+2024-12-29,North,Delhi,Delhi,India,Office Supplies,Paper,6,886,5316,425.28
+2024-12-30,West,Mumbai,Maharashtra,India,Office Supplies,Binders,1,1023,1023,107.42
